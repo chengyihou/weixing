@@ -1,0 +1,18 @@
+{
+  "model_id": "e2e_test",
+  "data_root": "C:\\Users\\cyw24\\AppData\\Local\\Temp\\e2e_real_rwcxc2cd\\base",
+  "created_at": "20261025_215049",
+  "seq_len": 4096,
+  "stride": 1024,
+  "kept": 61,
+  "block_samples": 65536,
+  "n_train_blocks": 15,
+  "n_cal_blocks": 5,
+  "max_epoch": 1,
+  "seed": 42,
+  "latent_dim": 8,
+  "block_quantile": 99.0,
+  "cal_block_center": 1.0153380671485526,
+  "cal_block_sigma": 0.00128516702143881,
+  "cal_block_threshold": 0.0022915089716676906
+}
